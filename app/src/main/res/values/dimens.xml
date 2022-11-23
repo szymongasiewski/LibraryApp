@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="bottom_padding">10dp</dimen>
+    <dimen name="book_item_padding">10dp</dimen>
+    <dimen name="recycler_layout_width">0dp</dimen>
+    <dimen name="recycler_layout_height">0dp</dimen>
+    <dimen name="button_margin">16dp</dimen>
+    <dimen name="small_padding">6dp</dimen>
+    <dimen name="big_padding">16dp</dimen>
+</resources>
